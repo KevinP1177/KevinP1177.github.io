@@ -1,5 +1,7 @@
-h1 {
-  color: rgb(0,0,0);
-  
-  
-}
+body {
+		background-image: url('backgroundimage.jpeg');
+	}
+#footer
+{
+background-color: rgb(185, 147, 214);
+            padding: 6px;
